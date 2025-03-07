@@ -46,32 +46,9 @@ NW Board Manager is a web application designed to help organize and manage playe
 - Animations with Framer Motion
 - Internationalization with i18next
 
-## Getting Started
+## Use with Github Pages
 
-### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn
-
-### Installation
-1. Clone the repository
-2. Install dependencies:
-   ```
-   npm install
-   ```
-3. Start the development server:
-   ```
-   npm run dev
-   ```
-
-### Building for Production
-```
-npm run build
-```
-
-### Preview Production Build
-```
-npm run preview
-```
+https://maayk.github.io/NwBoard
 
 ## License
 This project is licensed under the ISC License - see the package.json file for details.
