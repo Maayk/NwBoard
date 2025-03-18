@@ -49,6 +49,3 @@ NW Board Manager is a web application designed to help organize and manage playe
 ## Use with Github Pages
 
 https://maayk.github.io/NwBoard
-
-## License
-This project is licensed under the ISC License - see the package.json file for details.
