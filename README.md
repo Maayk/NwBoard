@@ -12,7 +12,6 @@ NW Board Manager is a web application designed to help organize and manage playe
     *   Customize board names.
     *   Organize players into groups and slots within each board.
     *   Switch between different boards using tabs.
-    *   Board history: Access and revert to previous versions of your boards.
 *   **Player Management:**
     *   Add players manually with custom names and classes.
     *   Import player data directly from Raid Helper.
@@ -40,7 +39,7 @@ NW Board Manager is a web application designed to help organize and manage playe
 ### How to Use
 
 1.  **Accessing the Application:**
-    *   Open the NW Board Manager in your web browser. The application is typically hosted on GitHub Pages.
+    *   Open the NW Board Manager in your web browser. The application is typically hosted on GitHub Pages (https://maayk.github.io/NwBoard/).
 2.  **Creating a Board:**
     *   Click on the "+" tab or a designated "Create Board" button.
     *   Enter a name for your new board.
@@ -72,7 +71,6 @@ O NW Board Manager é uma aplicação web projetada para ajudar a organizar e ge
     *   Personalize os nomes dos quadros.
     *   Organize jogadores em grupos e vagas dentro de cada quadro.
     *   Alterne entre diferentes quadros usando abas.
-    *   Histórico de quadros: Acesse e reverta para versões anteriores dos seus quadros.
 *   **Gerenciamento de Jogadores:**
     *   Adicione jogadores manualmente com nomes e classes personalizadas.
     *   Importe dados de jogadores diretamente do Raid Helper.
@@ -100,7 +98,7 @@ O NW Board Manager é uma aplicação web projetada para ajudar a organizar e ge
 ### Como Usar
 
 1.  **Acessando a Aplicação:**
-    *   Abra o NW Board Manager no seu navegador web. A aplicação é tipicamente hospedada no GitHub Pages.
+    *   Abra o NW Board Manager no seu navegador web. A aplicação é tipicamente hospedada no GitHub Pages (https://maayk.github.io/NwBoard/).
 2.  **Criando um Quadro:**
     *   Clique na aba "+" ou em um botão designado "Criar Quadro".
     *   Insira um nome para o seu novo quadro.
